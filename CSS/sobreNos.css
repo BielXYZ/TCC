@@ -124,20 +124,8 @@ body{
    display: none;
 }
 /*Rodapé*/
-footer{
-   margin-top: 100px;
-   height: 300px;
-   background-image:linear-gradient(180deg, purple, blue, black);
-}
 
 footer{
-   margin-top: 100px;
-   height: 250px;
-   background-image:linear-gradient(180deg, purple, rgb(26, 26, 49), black);
+   height: 80px;
+   background:linear-gradient(180deg, rgb(0, 96, 255), rgb(96, 0, 128));
 }
-
-.direitos{
-   /*text-transform: uppercase;*/
-   color: white;
-}
-/*56 minutos*/

@@ -16,4 +16,8 @@ body{
     align-items: center;
  }
 
+ footer{
+    height: 80px;
+    background:linear-gradient(180deg, rgb(0, 96, 255), rgb(96, 0, 128));
+ }
 
